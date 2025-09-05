@@ -3,3 +3,5 @@
 *.iml
 *.ipr
 *.iws
+__pycache__/module.cpython-312.pyc
+efile.json

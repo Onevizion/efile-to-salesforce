@@ -9,7 +9,7 @@ if 'Successfully installed' in installed_dependencies:
 
 import json
 import re
-from jsonschema import validate
+#from jsonschema import validate
 from onevizion import IntegrationLog, LogLevel
 from module import Module
 

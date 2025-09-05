@@ -5,3 +5,5 @@
 *.iws
 __pycache__/module.cpython-312.pyc
 efile.json
+settings_local.json
+.DS_Store
